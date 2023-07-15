@@ -1,4 +1,4 @@
-/*program to find the perimeter of a rectangle*/
+/*Program to find the perimeter of a rectangle*/
 #include<stdio.h>
 #include<conio.h>
 
